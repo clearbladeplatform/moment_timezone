@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,moment_timezone",
+    "logging_enabled": "false",
+    "name": "moment_timezoneSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "moment_timezoneSmokeTest.js"
+}
